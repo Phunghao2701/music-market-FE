@@ -78,7 +78,7 @@ out/
 .cache/
 docker-compose.yml
 init.sql
-README.md
+API_CONTRACT.md
 # ==========================================
 # 6. File cấu hình của các IDE / Code Editor
 # ==========================================
